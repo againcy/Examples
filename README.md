@@ -12,3 +12,10 @@
 
 ##BackgroundWorkerForm.cs
 一个Background Worker样例
+
+##UniRandomGenerator.cs
+一个均匀随机数的生成器，生成0到n-1的n个均匀随机数
+通过将一个0到n-1的顺序数列随机打乱顺序得到一个随机数表并以此取出，取完则重新生成随机数表
+
+##Vector.cs
+在.Net架构下实现向量的基本操作，包括部分构造函数，加减法，内积，与实数相乘等，并重载了对应的操作符
